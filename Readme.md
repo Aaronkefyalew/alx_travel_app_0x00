@@ -1,2 +1,0 @@
-# alx_travel_app_0x00
-## this is a readme
